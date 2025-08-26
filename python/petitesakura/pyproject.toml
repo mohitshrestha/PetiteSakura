@@ -1,0 +1,14 @@
+[project]
+name = "petitesakura"
+version = "0.1.0"
+description = "PetiteSakura - Automation Project by Mohit Shrestha"
+readme = "README.md"
+authors = [
+    { name = "Mohit Shrestha", email = "mohitshrestha@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[build-system]
+requires = ["uv-build"]
+build-backend = "uv_build"
